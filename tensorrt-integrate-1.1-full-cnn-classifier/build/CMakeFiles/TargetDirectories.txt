@@ -1,0 +1,7 @@
+/home/jetson/cqy/TensorRT-integrate-Jetson/tensorrt-integrate-1.1-full-cnn-classifier/build/CMakeFiles/install/strip.dir
+/home/jetson/cqy/TensorRT-integrate-Jetson/tensorrt-integrate-1.1-full-cnn-classifier/build/CMakeFiles/edit_cache.dir
+/home/jetson/cqy/TensorRT-integrate-Jetson/tensorrt-integrate-1.1-full-cnn-classifier/build/CMakeFiles/pro.dir
+/home/jetson/cqy/TensorRT-integrate-Jetson/tensorrt-integrate-1.1-full-cnn-classifier/build/CMakeFiles/rebuild_cache.dir
+/home/jetson/cqy/TensorRT-integrate-Jetson/tensorrt-integrate-1.1-full-cnn-classifier/build/CMakeFiles/list_install_components.dir
+/home/jetson/cqy/TensorRT-integrate-Jetson/tensorrt-integrate-1.1-full-cnn-classifier/build/CMakeFiles/install/local.dir
+/home/jetson/cqy/TensorRT-integrate-Jetson/tensorrt-integrate-1.1-full-cnn-classifier/build/CMakeFiles/install.dir
